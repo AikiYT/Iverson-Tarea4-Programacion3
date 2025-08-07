@@ -1,6 +1,6 @@
 # Automatización de Pruebas con Selenium - Contact List App
 
-Este proyecto consiste en la automatización de pruebas funcionales sobre la aplicación web [Contact List App](https://thinking-tester-contact-list.herokuapp.com/), utilizando **Selenium WebDriver**, **pytest** y **Python**. Las pruebas cubren operaciones básicas como inicio de sesión, creación de contactos y validaciones de campos.
+Este proyecto consiste en la automatización de pruebas funcionales sobre la aplicación web [Contact List App](https://thinking-tester-contact-list.herokuapp.com/), utilizando **pytest** y **Python**. Las pruebas cubren operaciones básicas como inicio de sesión, creación de contactos y validaciones de campos.
 
 ##  Página probada
 
