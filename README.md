@@ -1,10 +1,10 @@
-# 🧪 Automatización de Pruebas con Selenium - Contact List App
+#  Automatización de Pruebas con Selenium - Contact List App
 
 Este proyecto consiste en la automatización de pruebas funcionales sobre la aplicación web [Contact List App](https://thinking-tester-contact-list.herokuapp.com/), utilizando **pytest** y **Python**. Las pruebas cubren operaciones básicas como inicio de sesión, creación de contactos y validaciones de campos.
 
 ---
 
-## 🌐 Página probada
+##  Página probada
 
 - [https://thinking-tester-contact-list.herokuapp.com/](https://thinking-tester-contact-list.herokuapp.com/)
 
@@ -12,7 +12,7 @@ Este proyecto consiste en la automatización de pruebas funcionales sobre la apl
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python 3.12  
 - Selenium  
@@ -23,7 +23,7 @@ Este proyecto consiste en la automatización de pruebas funcionales sobre la apl
 
 ---
 
-## ✅ Casos de prueba automatizados
+##  Casos de prueba automatizados
 
 Se implementó **un caso de prueba por cada historia de usuario** (mínimo 5):
 
@@ -37,7 +37,7 @@ Se implementó **un caso de prueba por cada historia de usuario** (mínimo 5):
 
 ---
 
-## 📸 Capturas de pruebas (HTML Report)
+##  Capturas de pruebas (HTML Report)
 
 Capturas de pantalla tomadas automáticamente durante la ejecución de los tests:
 
@@ -50,11 +50,11 @@ Capturas de pantalla tomadas automáticamente durante la ejecución de los tests
 - `result/assets/letters_phone_attempt.png`  
   <img width="800" alt="Teléfono con letras" src="https://github.com/user-attachments/assets/e4d9f9b1-90a2-4ab4-a5a0-16fa7b87ade3" />
 
-🔍 Puedes encontrar más imágenes adjuntas en las historias dentro del tablero Jira.
+ Puedes encontrar más imágenes adjuntas en las historias dentro del tablero Jira.
 
 ---
 
-## 🗂️ Tablero en Jira
+##  Tablero en Jira
 
 Aquí puedes ver las historias de usuario, los casos de uso, adjuntos y planificación general del proyecto:
 
@@ -62,9 +62,9 @@ Aquí puedes ver las historias de usuario, los casos de uso, adjuntos y planific
 
 ---
 
-## ▶️ Cómo ejecutar los tests (uno por uno)
+##  Cómo ejecutar los tests (uno por uno)
 
-> ⚠️ **Se recomienda ejecutar los tests individualmente** para evitar errores de concurrencia o conflictos con el navegador.
+>  **Se recomienda ejecutar los tests individualmente** para evitar errores de concurrencia o conflictos con el navegador.
 
 ```bash
 python -m pytest tests/test_contact_crud.py --html=result/report.html
