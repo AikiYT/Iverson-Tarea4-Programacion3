@@ -45,7 +45,7 @@ Capturas de pantalla tomadas automáticamente durante la ejecución de los tests
 
 - ...
 
-  Puedes abrir este archivo en tu navegador para visualizar todos los resultados.
+  Hay mas imagenes en el tablero de jira en los casos de uso
 
 ##  Tablero Jira
 
